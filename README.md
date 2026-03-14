@@ -2,6 +2,7 @@
 ### *我要验牌~  牌没有问题~  给我擦皮鞋~*
 ---
 
+Poker Cipher Lock - A cool password authentication system using playing cards, so creative! Let me verify the cards~
 一个炫酷的扑克牌密码认证系统，将传统密码输入方式转化为有趣的扑克牌选择游戏。
 开源地址：[https://github.com/HnBigVolibear/card-password-login](https://github.com/HnBigVolibear/card-password-login)
 
