@@ -1,6 +1,7 @@
 # 🃏 扑克密码锁 - Card Password Login
 
 一个炫酷的扑克牌密码认证系统，将传统密码输入方式转化为有趣的扑克牌选择游戏。
+开源地址：[https://github.com/HnBigVolibear/card-password-login](https://github.com/HnBigVolibear/card-password-login)
 
 > 仅DEMO展示，故采用单文件HTML方式！！！
 
@@ -155,3 +156,6 @@ card-password-login/
 ---
 
 ⭐ 如果这个项目对你有帮助，欢迎给个 Star！
+
+## Sponsor Me 捐赠我：
+![img](sponsor.png)
